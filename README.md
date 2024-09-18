@@ -1,5 +1,6 @@
 # trabalhando com os principais elementos no github
 
-estou criando um repositorio para poder operar as principais funcionalidades desta plataforma
+estou criando um repositorio para poder operar as principais 
+funcionalidades desta plataforma
 
 # Pedroabnerr
